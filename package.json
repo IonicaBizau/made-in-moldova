@@ -56,7 +56,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -765,6 +766,33 @@
               "2",
               "[@roman-munteanu](https://github.com/roman-munteanu)/[**akka-spray-demo**](https://github.com/roman-munteanu/akka-spray-demo)",
               "A demo for learning AKKA and Spray",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "20",
+              "[@horosgrisa](https://github.com/horosgrisa)/[**autoenv**](https://github.com/horosgrisa/autoenv)",
+              "Autoenv for zsh",
+              ""
+            ],
+            [
+              "14",
+              "[@horosgrisa](https://github.com/horosgrisa)/[**zpm**](https://github.com/horosgrisa/zpm)",
+              "ZPM - Zsh Plugin Manager",
               ""
             ]
           ]
