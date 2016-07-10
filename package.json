@@ -38,5 +38,182 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-moldova/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-moldova#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-moldova#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "212",
+              "[@alexeisavca](https://github.com/alexeisavca)/[**webtorrentapp**](https://github.com/alexeisavca/webtorrentapp)",
+              "Webtorrent App",
+              ""
+            ],
+            [
+              "150",
+              "[@Igor10k](https://github.com/Igor10k)/[**ikSelect**](https://github.com/Igor10k/ikSelect)",
+              "Stylize html selects using jQuery",
+              ""
+            ],
+            [
+              "130",
+              "[@vova07](https://github.com/vova07)/[**yii2-imperavi-widget**](https://github.com/vova07/yii2-imperavi-widget)",
+              "Imperavi Redactor widget for Yii 2",
+              ""
+            ],
+            [
+              "82",
+              "[@Krekotun](https://github.com/Krekotun)/[**fabium-markup**](https://github.com/Krekotun/fabium-markup)",
+              "+100 for productivity",
+              ""
+            ],
+            [
+              "75",
+              "[@pulviscriptor](https://github.com/pulviscriptor)/[**agario-client**](https://github.com/pulviscriptor/agario-client)",
+              "Node.js agar.io client implementation",
+              ""
+            ],
+            [
+              "60",
+              "[@Shogun147](https://github.com/Shogun147)/[**Katana**](https://github.com/Shogun147/Katana)",
+              "Easy to use, modular web framework for any Node.js samurai",
+              ""
+            ],
+            [
+              "29",
+              "[@alexeisavca](https://github.com/alexeisavca)/[**keyframes.js**](https://github.com/alexeisavca/keyframes.js)",
+              "A functional animation library",
+              "[:arrow_upper_right:](http://alexeisavca.github.io/keyframes.js)"
+            ],
+            [
+              "23",
+              "[@micnic](https://github.com/micnic)/[**simpleS**](https://github.com/micnic/simpleS)",
+              "Simple Web Framework for Node.JS",
+              ""
+            ],
+            [
+              "15",
+              "[@pulviscriptor](https://github.com/pulviscriptor)/[**agario-devtools**](https://github.com/pulviscriptor/agario-devtools)",
+              "Node.js agar.io developer tools",
+              ""
+            ],
+            [
+              "7",
+              "[@vitalyrotari](https://github.com/vitalyrotari)/[**foundation-sites-loa…**](https://github.com/vitalyrotari/foundation-sites-loader)",
+              "Webpack Loader for the Sass version Foundation Sites",
+              ""
+            ],
+            [
+              "6",
+              "[@micnic](https://github.com/micnic)/[**simpleT**](https://github.com/micnic/simpleT)",
+              "Simple Template Engine for Node.js",
+              ""
+            ],
+            [
+              "6",
+              "[@vova07](https://github.com/vova07)/[**yii2-start-themes**](https://github.com/vova07/yii2-start-themes)",
+              "The themes extension for Yii2-Start application.",
+              ""
+            ],
+            [
+              "5",
+              "[@slavcodev](https://github.com/slavcodev)/[**js-audio-tags**](https://github.com/slavcodev/js-audio-tags)",
+              "JavaScript library to read tags from audio files. Using HTML5 FileAPI.",
+              ""
+            ],
+            [
+              "4",
+              "[@Shogun147](https://github.com/Shogun147)/[**Jinsoku**](https://github.com/Shogun147/Jinsoku)",
+              "High performance Javascript template engine inspired by Jade's power and doT's speed.",
+              ""
+            ],
+            [
+              "4",
+              "[@micnic](https://github.com/micnic)/[**recache**](https://github.com/micnic/recache)",
+              "File system cache for Node.JS",
+              ""
+            ],
+            [
+              "3",
+              "[@Shogun147](https://github.com/Shogun147)/[**Katana-ToDo**](https://github.com/Shogun147/Katana-ToDo)",
+              "Simple ToDo application running on Katana framework as backend",
+              ""
+            ],
+            [
+              "3",
+              "[@Igor10k](https://github.com/Igor10k)/[**playmdsucks**](https://github.com/Igor10k/playmdsucks)",
+              "A Safari extension that replaces video with <video> on play.md",
+              ""
+            ],
+            [
+              "3",
+              "[@Igor10k](https://github.com/Igor10k)/[**steamwall**](https://github.com/Igor10k/steamwall)",
+              "Generate a unique wallpaper using games from your Steam library",
+              ""
+            ],
+            [
+              "3",
+              "[@Igor10k](https://github.com/Igor10k)/[**infigames**](https://github.com/Igor10k/infigames)",
+              "A webapp that helps you keep a library of games you played",
+              ""
+            ],
+            [
+              "3",
+              "[@a2xchip](https://github.com/a2xchip)/[**a2x-redactor-js-plug…**](https://github.com/a2xchip/a2x-redactor-js-plugin)",
+              "The plugin for popular html5 wysiwyg redactor editor v8.2.2",
+              ""
+            ],
+            [
+              "3",
+              "[@a2xchip](https://github.com/a2xchip)/[**a2x-text-counter**](https://github.com/a2xchip/a2x-text-counter)",
+              "jQuery text counter plugin",
+              ""
+            ],
+            [
+              "3",
+              "[@micnic](https://github.com/micnic)/[**simpleR**](https://github.com/micnic/simpleR)",
+              "Simple Script Reloader for Node.JS",
+              ""
+            ],
+            [
+              "2",
+              "[@alexeisavca](https://github.com/alexeisavca)/[**elmy**](https://github.com/alexeisavca/elmy)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@micnic](https://github.com/micnic)/[**simpleU**](https://github.com/micnic/simpleU)",
+              "Simple Unit Testing Tool for Node.JS",
+              ""
+            ],
+            [
+              "2",
+              "[@Igor10k](https://github.com/Igor10k)/[**DarkCorner.bowtie**](https://github.com/Igor10k/DarkCorner.bowtie)",
+              "Bowtie music controller theme",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
