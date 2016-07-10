@@ -52,7 +52,8 @@
           "[HTML](#html)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -456,6 +457,129 @@
               "[@chorny](https://github.com/chorny)/[**Roman**](https://github.com/chorny/Roman)",
               "Perl programming module for conversion between Roman and Arabic numerals.",
               "[:arrow_upper_right:](http://search.cpan.org/dist/Roman/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "44",
+              "[@lex0r](https://github.com/lex0r)/[**zendscaffolding**](https://github.com/lex0r/zendscaffolding)",
+              "CRUD component for Zend Framework",
+              ""
+            ],
+            [
+              "15",
+              "[@dyatlov](https://github.com/dyatlov)/[**Expedia-PHP-API**](https://github.com/dyatlov/Expedia-PHP-API)",
+              "PHP Wrapper for Expedia API",
+              ""
+            ],
+            [
+              "6",
+              "[@dyatlov](https://github.com/dyatlov)/[**php-sandbox**](https://github.com/dyatlov/php-sandbox)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@igariok1990](https://github.com/igariok1990)/[**solid-principles-php**](https://github.com/igariok1990/solid-principles-php)",
+              "File agile principles (solid principles in php)",
+              ""
+            ],
+            [
+              "5",
+              "[@Ekstazi](https://github.com/Ekstazi)/[**transactionbehavior**](https://github.com/Ekstazi/transactionbehavior)",
+              "yii cactiverecord behavior for transactional save",
+              ""
+            ],
+            [
+              "4",
+              "[@rodgermd](https://github.com/rodgermd)/[**21may**](https://github.com/rodgermd/21may)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@rodgermd](https://github.com/rodgermd)/[**CodeSamples**](https://github.com/rodgermd/CodeSamples)",
+              "code samples",
+              ""
+            ],
+            [
+              "3",
+              "[@rodgermd](https://github.com/rodgermd)/[**sofort2-bundle**](https://github.com/rodgermd/sofort2-bundle)",
+              "Symfony2 Bundle for Sofort PHP Library 2.x",
+              ""
+            ],
+            [
+              "2",
+              "[@alxolr](https://github.com/alxolr)/[**php-dp**](https://github.com/alxolr/php-dp)",
+              "A collection of code examples for the GOF design patterns, followed by a short description and GOF Wild Cards",
+              ""
+            ],
+            [
+              "2",
+              "[@rodgermd](https://github.com/rodgermd)/[**contest-nominations**](https://github.com/rodgermd/contest-nominations)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@rodgermd](https://github.com/rodgermd)/[**PersonalTranslations…**](https://github.com/rodgermd/PersonalTranslationsWidget)",
+              "Translations widget for Entity using Gedmo personal translations",
+              ""
+            ],
+            [
+              "2",
+              "[@rodgermd](https://github.com/rodgermd)/[**wipi**](https://github.com/rodgermd/wipi)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@rodgermd](https://github.com/rodgermd)/[**sofort2-lib**](https://github.com/rodgermd/sofort2-lib)",
+              "Sofort PHP Library 2.x",
+              ""
+            ],
+            [
+              "2",
+              "[@rodgermd](https://github.com/rodgermd)/[**IbanApiDebundle**](https://github.com/rodgermd/IbanApiDebundle)",
+              "http://www.iban-api.de/soap-service/ integration",
+              ""
+            ],
+            [
+              "2",
+              "[@rodgermd](https://github.com/rodgermd)/[**mura-show.com**](https://github.com/rodgermd/mura-show.com)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@rodgermd](https://github.com/rodgermd)/[**MailchimpWrapperBund…**](https://github.com/rodgermd/MailchimpWrapperBundle)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@rodgermd](https://github.com/rodgermd)/[**RodgerSfTools**](https://github.com/rodgermd/RodgerSfTools)",
+              "Usefull tools for sf2",
+              ""
+            ],
+            [
+              "2",
+              "[@rodgermd](https://github.com/rodgermd)/[**strava-client-bundle**](https://github.com/rodgermd/strava-client-bundle)",
+              "",
+              ""
             ]
           ]
         }
