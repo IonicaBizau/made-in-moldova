@@ -57,7 +57,8 @@
           "[Python](#python)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -793,6 +794,27 @@
               "14",
               "[@horosgrisa](https://github.com/horosgrisa)/[**zpm**](https://github.com/horosgrisa/zpm)",
               "ZPM - Zsh Plugin Manager",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@mancunianetz](https://github.com/mancunianetz)/[**CheckBox**](https://github.com/mancunianetz/CheckBox)",
+              "CheckBox component",
               ""
             ]
           ]
