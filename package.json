@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -277,6 +278,27 @@
               "2",
               "[@kozakovi4](https://github.com/kozakovi4)/[**osu-chat**](https://github.com/kozakovi4/osu-chat)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@rockzill](https://github.com/rockzill)/[**ZTE-RedBull-Nubia-v2…**](https://github.com/rockzill/ZTE-RedBull-Nubia-v2.5)",
+              "Файлы локализации прошивки для Nubia UI 2.5 через jBart или другие утилиты. Перевод для форума (4PDA.RU)",
               ""
             ]
           ]
