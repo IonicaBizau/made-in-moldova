@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -299,6 +300,27 @@
               "4",
               "[@rockzill](https://github.com/rockzill)/[**ZTE-RedBull-Nubia-v2…**](https://github.com/rockzill/ZTE-RedBull-Nubia-v2.5)",
               "Файлы локализации прошивки для Nubia UI 2.5 через jBart или другие утилиты. Перевод для форума (4PDA.RU)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@TeslineServices](https://github.com/TeslineServices)/[**RohosLogonMobile**](https://github.com/TeslineServices/RohosLogonMobile)",
+              "Rohos Logon Key client for mobile devices (Android, iOS, etc)",
               ""
             ]
           ]
