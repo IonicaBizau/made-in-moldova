@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -243,6 +244,39 @@
               "2",
               "[@vgaidarji](https://github.com/vgaidarji)/[**android-db-tricks**](https://github.com/vgaidarji/android-db-tricks)",
               "Demonstrates work with databases on Android (plain SQL, ORM's).",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "77",
+              "[@omuleanu](https://github.com/omuleanu)/[**ValueInjecter**](https://github.com/omuleanu/ValueInjecter)",
+              "convention based mapper",
+              ""
+            ],
+            [
+              "3",
+              "[@omuleanu](https://github.com/omuleanu)/[**imager**](https://github.com/omuleanu/imager)",
+              "image resizing and cropping",
+              ""
+            ],
+            [
+              "2",
+              "[@kozakovi4](https://github.com/kozakovi4)/[**osu-chat**](https://github.com/kozakovi4/osu-chat)",
+              "",
               ""
             ]
           ]
