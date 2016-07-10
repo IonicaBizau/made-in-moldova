@@ -55,7 +55,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -744,6 +745,27 @@
               "[@vitaliel](https://github.com/vitaliel)/[**breakout_integration**](https://github.com/vitaliel/breakout_integration)",
               "testing breakout integration",
               "[:arrow_upper_right:](http://www.assembla.com)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@roman-munteanu](https://github.com/roman-munteanu)/[**akka-spray-demo**](https://github.com/roman-munteanu/akka-spray-demo)",
+              "A demo for learning AKKA and Spray",
+              ""
             ]
           ]
         }
