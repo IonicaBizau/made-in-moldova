@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -209,6 +210,39 @@
               "2",
               "[@Igor10k](https://github.com/Igor10k)/[**DarkCorner.bowtie**](https://github.com/Igor10k/DarkCorner.bowtie)",
               "Bowtie music controller theme",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@vgaidarji](https://github.com/vgaidarji)/[**CustomProgressContro…**](https://github.com/vgaidarji/CustomProgressControls)",
+              "Custom progress controls for Android",
+              ""
+            ],
+            [
+              "3",
+              "[@kemonoske](https://github.com/kemonoske)/[**Clommunicate**](https://github.com/kemonoske/Clommunicate)",
+              "I will use this repository for my coursework.",
+              ""
+            ],
+            [
+              "2",
+              "[@vgaidarji](https://github.com/vgaidarji)/[**android-db-tricks**](https://github.com/vgaidarji/android-db-tricks)",
+              "Demonstrates work with databases on Android (plain SQL, ORM's).",
               ""
             ]
           ]
