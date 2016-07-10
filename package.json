@@ -54,7 +54,8 @@
           "[ActionScript](#actionscript)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -656,6 +657,93 @@
               "[@warvariuc](https://github.com/warvariuc)/[**kde-wallpaper**](https://github.com/warvariuc/kde-wallpaper)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "265",
+              "[@alisnic](https://github.com/alisnic)/[**nyny**](https://github.com/alisnic/nyny)",
+              "a (ridiculously) small and powerful web framework.",
+              "[:arrow_upper_right:](http://alisnic.github.io/nyny/)"
+            ],
+            [
+              "72",
+              "[@alisnic](https://github.com/alisnic)/[**stackprof-webnav**](https://github.com/alisnic/stackprof-webnav)",
+              "Web UI for viewing stackprof dumps",
+              ""
+            ],
+            [
+              "20",
+              "[@alisnic](https://github.com/alisnic)/[**sinatra_activerecord…**](https://github.com/alisnic/sinatra_activerecord_sample)",
+              "Sample Sinatra skeleton with ActiveRecord",
+              ""
+            ],
+            [
+              "4",
+              "[@kron4eg](https://github.com/kron4eg)/[**confrider**](https://github.com/kron4eg/confrider)",
+              "manage config options like i18n",
+              "[:arrow_upper_right:](http://kron4eg.github.com/confrider/)"
+            ],
+            [
+              "4",
+              "[@vitaliel](https://github.com/vitaliel)/[**cia_rails**](https://github.com/vitaliel/cia_rails)",
+              "Continuous Integration(CI) builder for Rails applications, very simple, no database is needed for runtime. ",
+              ""
+            ],
+            [
+              "3",
+              "[@alisnic](https://github.com/alisnic)/[**naked_rail**](https://github.com/alisnic/naked_rail)",
+              "A naked Rails 3.2.13 app with useful stuff added for rapid development.",
+              ""
+            ],
+            [
+              "3",
+              "[@vitaliel](https://github.com/vitaliel)/[**stage_demo**](https://github.com/vitaliel/stage_demo)",
+              "assembla stage demo",
+              "[:arrow_upper_right:](http://stage.assembla.cc/spaces/GitHubDemo)"
+            ],
+            [
+              "3",
+              "[@vitaliel](https://github.com/vitaliel)/[**breakout-wparser**](https://github.com/vitaliel/breakout-wparser)",
+              "Wiki templates parser for breakout",
+              "[:arrow_upper_right:](www.assembla.com/spaces/breakout)"
+            ],
+            [
+              "3",
+              "[@vitaliel](https://github.com/vitaliel)/[**shelper**](https://github.com/vitaliel/shelper)",
+              "Ruby jabber agent to help system administrators. Configure your servers from your favorite IM.",
+              ""
+            ],
+            [
+              "3",
+              "[@vitaliel](https://github.com/vitaliel)/[**table_view**](https://github.com/vitaliel/table_view)",
+              "Rails plugin that will help you to draw useful html tables with grouping, summaries. Do not count anymore columns for table colspan.",
+              ""
+            ],
+            [
+              "2",
+              "[@kron4eg](https://github.com/kron4eg)/[**to_slug**](https://github.com/kron4eg/to_slug)",
+              "slug any string wtih tans_table",
+              ""
+            ],
+            [
+              "2",
+              "[@vitaliel](https://github.com/vitaliel)/[**breakout_integration**](https://github.com/vitaliel/breakout_integration)",
+              "testing breakout integration",
+              "[:arrow_upper_right:](http://www.assembla.com)"
             ]
           ]
         }
