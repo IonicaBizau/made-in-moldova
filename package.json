@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/made-in-moldova#readme",
   "blah": {
+    "title": "Made in Moldova",
     "installation": [
       {
         "h2": "Contents"
