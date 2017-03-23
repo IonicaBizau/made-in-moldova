@@ -20,6 +20,7 @@
  - [Scala](#scala)
  - [Shell](#shell)
  - [Swift](#swift)
+
 ### JavaScript #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
