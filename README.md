@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -24,6 +25,7 @@
  - [Swift](#swift)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 212 | [@alexeisavca](https://github.com/alexeisavca)/[**webtorrentapp**](https://github.com/alexeisavca/webtorrentapp) | Webtorrent App |
@@ -51,31 +53,43 @@
 2 | [@alexeisavca](https://github.com/alexeisavca)/[**elmy**](https://github.com/alexeisavca/elmy) |  |
 2 | [@micnic](https://github.com/micnic)/[**simpleU**](https://github.com/micnic/simpleU) | Simple Unit Testing Tool for Node.JS |
 2 | [@Igor10k](https://github.com/Igor10k)/[**DarkCorner.bowtie**](https://github.com/Igor10k/DarkCorner.bowtie) | Bowtie music controller theme |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@vgaidarji](https://github.com/vgaidarji)/[**CustomProgressContro…**](https://github.com/vgaidarji/CustomProgressControls) | Custom progress controls for Android |
 3 | [@kemonoske](https://github.com/kemonoske)/[**Clommunicate**](https://github.com/kemonoske/Clommunicate) | I will use this repository for my coursework. |
 2 | [@vgaidarji](https://github.com/vgaidarji)/[**android-db-tricks**](https://github.com/vgaidarji/android-db-tricks) | Demonstrates work with databases on Android (plain SQL, ORM's). |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 77 | [@omuleanu](https://github.com/omuleanu)/[**ValueInjecter**](https://github.com/omuleanu/ValueInjecter) | convention based mapper |
 3 | [@omuleanu](https://github.com/omuleanu)/[**imager**](https://github.com/omuleanu/imager) | image resizing and cropping |
 2 | [@kozakovi4](https://github.com/kozakovi4)/[**osu-chat**](https://github.com/kozakovi4/osu-chat) |  |
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@rockzill](https://github.com/rockzill)/[**ZTE-RedBull-Nubia-v2…**](https://github.com/rockzill/ZTE-RedBull-Nubia-v2.5) | Файлы локализации прошивки для Nubia UI 2.5 через jBart или другие утилиты. Перевод для форума (4PDA.RU) |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@TeslineServices](https://github.com/TeslineServices)/[**RohosLogonMobile**](https://github.com/TeslineServices/RohosLogonMobile) | Rohos Logon Key client for mobile devices (Android, iOS, etc) |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6 | [@lisnic1990](https://github.com/lisnic1990)/[**Isometric-Map-Editor…**](https://github.com/lisnic1990/Isometric-Map-Editor-v1.0.0) | Isometric-Map-Editor-v1.0.0 |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 10 | [@chorny](https://github.com/chorny)/[**smart-comments**](https://github.com/chorny/smart-comments) | Perl programming module for easier debugging | [:arrow_upper_right:](http://search.cpan.org/dist/Smart-Comments/)
@@ -94,7 +108,9 @@
 2 | [@chorny](https://github.com/chorny)/[**lacuna-cluster**](https://github.com/chorny/lacuna-cluster) |  |
 2 | [@chorny](https://github.com/chorny)/[**ping-continuous**](https://github.com/chorny/ping-continuous) | collect and display information about host availability |
 2 | [@chorny](https://github.com/chorny)/[**Roman**](https://github.com/chorny/Roman) | Perl programming module for conversion between Roman and Arabic numerals. | [:arrow_upper_right:](http://search.cpan.org/dist/Roman/)
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 44 | [@lex0r](https://github.com/lex0r)/[**zendscaffolding**](https://github.com/lex0r/zendscaffolding) | CRUD component for Zend Framework |
@@ -115,7 +131,9 @@
 2 | [@rodgermd](https://github.com/rodgermd)/[**MailchimpWrapperBund…**](https://github.com/rodgermd/MailchimpWrapperBundle) |  |
 2 | [@rodgermd](https://github.com/rodgermd)/[**RodgerSfTools**](https://github.com/rodgermd/RodgerSfTools) | Usefull tools for sf2 |
 2 | [@rodgermd](https://github.com/rodgermd)/[**strava-client-bundle**](https://github.com/rodgermd/strava-client-bundle) |  |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 195 | [@vladimarius](https://github.com/vladimarius)/[**imapy**](https://github.com/vladimarius/imapy) | Imapy: Imap for Humans |
@@ -128,7 +146,9 @@
 2 | [@gnunixon](https://github.com/gnunixon)/[**python-yumpu-sdk**](https://github.com/gnunixon/python-yumpu-sdk) |  |
 2 | [@ardevelop](https://github.com/ardevelop)/[**momentpy**](https://github.com/ardevelop/momentpy) | A python date library for parsing, validating, manipulating, and formatting dates. Inspired by momentjs. |
 2 | [@warvariuc](https://github.com/warvariuc)/[**kde-wallpaper**](https://github.com/warvariuc/kde-wallpaper) |  |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 265 | [@alisnic](https://github.com/alisnic)/[**nyny**](https://github.com/alisnic/nyny) | a (ridiculously) small and powerful web framework. | [:arrow_upper_right:](http://alisnic.github.io/nyny/)
@@ -143,19 +163,26 @@
 3 | [@vitaliel](https://github.com/vitaliel)/[**table_view**](https://github.com/vitaliel/table_view) | Rails plugin that will help you to draw useful html tables with grouping, summaries. Do not count anymore columns for table colspan. |
 2 | [@kron4eg](https://github.com/kron4eg)/[**to_slug**](https://github.com/kron4eg/to_slug) | slug any string wtih tans_table |
 2 | [@vitaliel](https://github.com/vitaliel)/[**breakout_integration**](https://github.com/vitaliel/breakout_integration) | testing breakout integration | [:arrow_upper_right:](http://www.assembla.com)
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@roman-munteanu](https://github.com/roman-munteanu)/[**akka-spray-demo**](https://github.com/roman-munteanu/akka-spray-demo) | A demo for learning AKKA and Spray |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 20 | [@horosgrisa](https://github.com/horosgrisa)/[**autoenv**](https://github.com/horosgrisa/autoenv) | Autoenv for zsh |
 14 | [@horosgrisa](https://github.com/horosgrisa)/[**zpm**](https://github.com/horosgrisa/zpm) | ZPM - Zsh Plugin Manager |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@mancunianetz](https://github.com/mancunianetz)/[**CheckBox**](https://github.com/mancunianetz/CheckBox) | CheckBox component |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
