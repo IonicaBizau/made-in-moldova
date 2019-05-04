@@ -142,6 +142,7 @@
 46 | [@vladimarius](https://github.com/vladimarius)/[**pyap**](https://github.com/vladimarius/pyap) | Python address detector and parser |
 18 | [@vladimirnani](https://github.com/vladimirnani)/[**DjangoCommands**](https://github.com/vladimirnani/DjangoCommands) | ST2/ST3 plugin for managing django project |
 6 | [@ralienpp](https://github.com/ralienpp)/[**reyaml**](https://github.com/ralienpp/reyaml) | A parser of humane YAML files - it tolerates comments, inline comments, whitespace; as well as catches some basic syntax errors for you. |
+5 | [@roataway](https://github.com/roataway)/[**Roata Wăy**](https://github.com/roataway/telegram-bot) | A Telegram bot that tells you about the estimated time of arrival (ETA) for public transport in Chișinău. |
 4 | [@warvariuc](https://github.com/warvariuc)/[**mykde**](https://github.com/warvariuc/mykde) | Tweaks framework for KDE on Kubuntu |
 3 | [@ardevelop](https://github.com/ardevelop)/[**ardaemon**](https://github.com/ardevelop/ardaemon) | A library for running Python programs as Unix daemons. |
 2 | [@eRadu80](https://github.com/eRadu80)/[**parse-lxr**](https://github.com/eRadu80/parse-lxr) | This is a simple python script for downloading files or folders on http://lxr.free-electrons.com  |
