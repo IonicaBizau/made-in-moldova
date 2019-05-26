@@ -36,7 +36,7 @@
 82 | [@Krekotun](https://github.com/Krekotun)/[**fabium-markup**](https://github.com/Krekotun/fabium-markup) | +100 for productivity |
 75 | [@pulviscriptor](https://github.com/pulviscriptor)/[**agario-client**](https://github.com/pulviscriptor/agario-client) | Node.js agar.io client implementation |
 60 | [@Shogun147](https://github.com/Shogun147)/[**Katana**](https://github.com/Shogun147/Katana) | Easy to use, modular web framework for any Node.js samurai |
-45 | [@strdr4605](https://github.com/strdr4605)/[**mockingcase**](https://github.com/strdr4605/mockingcase) | npm package that convert a string to mOcKiNgCaSe | [:arrow_upper_right:](https://www.npmjs.org/package/mockingcase)
+45 | [@strdr4605](https://github.com/strdr4605)/[**mockingcase**](https://github.com/strdr4605/mockingcase) | npm package that converts a string to mOcKiNgCaSe | [:arrow_upper_right:](https://www.npmjs.org/package/mockingcase)
 29 | [@alexeisavca](https://github.com/alexeisavca)/[**keyframes.js**](https://github.com/alexeisavca/keyframes.js) | A functional animation library | [:arrow_upper_right:](http://alexeisavca.github.io/keyframes.js)
 23 | [@micnic](https://github.com/micnic)/[**simpleS**](https://github.com/micnic/simpleS) | Simple Web Framework for Node.JS |
 15 | [@pulviscriptor](https://github.com/pulviscriptor)/[**agario-devtools**](https://github.com/pulviscriptor/agario-devtools) | Node.js agar.io developer tools |
